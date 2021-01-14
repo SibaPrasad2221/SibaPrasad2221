@@ -4,7 +4,7 @@
 - 🛃 I’m currently a college student.
 - 🌱 I’m currently learning ML,DL,NLP.
 - 🔑 Actively Looking for an Internship.
-- 🆓 See my repositories for new AI products.
+- 🆓 Visit my repositories for new AI products.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 💫 2021 Goals: Create ** no. of repository by Final of year my graduation.
 
