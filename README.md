@@ -1,8 +1,8 @@
 ### Hi there, This is sibaPrasad 👋
 
 ## I'm a Prefinal year student!
-- 🛃 I’m currently a college student.
-- 🌱 I’m currently learning ML,DL,NLP.
+- 🛃 Currently a college student.
+- 🌱 Learning ML,DL,CV,NLP.
 - 🔑 Actively Looking for an Internship.
 - 🆓 Visit my repositories for new AI products.
 - 👯 I’m looking to collaborate with other content creators and developers
