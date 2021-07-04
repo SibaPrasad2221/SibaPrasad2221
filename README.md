@@ -1,6 +1,6 @@
-### Hi there, This is sibaPrasad 👋
+### Hi there, This is Siba Prasad 👋
 
-## I'm a Prefinal year student!
+## 2022 passout!
 - 🛃 Currently a college student.
 - 🌱 Learning ML,DL,CV,NLP.
 - 🔑 Actively Looking for an Internship.
