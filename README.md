@@ -42,7 +42,7 @@ class Siba_Prasad:
         self.country = 'India'
         self.english = 'Moderate'
         self.hobbies = 'Cricket, Computer Programming'
-        self.job = 'Looking for an Full Time Job'
+        self.job = 'Looking for a Full Time Job'
         self.skills = {#some knowledge
           'soft': ['Multitasking', 'Problem Solving', 'Teamwork', 'Communication', 'Research', 'Adaptability', 'Eagerness to learn'],
           'technical':['Python', 'C++', 'HTML', 'CSS', 'JS', 'SQL/MySql', 'Pandas', 'Numpy', 'Sklearn', 'Keras', 'Tensorflow', 'Seaborn', 'Plotly', 'Jupytet notebook', 'VS code', 'Atom']
