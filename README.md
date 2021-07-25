@@ -25,8 +25,6 @@
 
 ## WhoAmI ???
 
-```json
-
 ```
 class Siba_Prasad:
 
@@ -57,6 +55,8 @@ class Siba_Prasad:
 
 if __name__ == '__main__':
     me = Siba_Prasad()
+    
+```
 
 
 
