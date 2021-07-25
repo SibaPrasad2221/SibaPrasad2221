@@ -23,17 +23,41 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SibPrasad" alt="~egoist" /> </p>
 
 
-## Technologies Stack
+## WhoAmI ???
 
 ```json
-{
-   "languages": ["Python", "C/C++", "Java"],
-   "backend": ["Django", "Managed Cloud Services in AWS"],
-   "frontend": ["HTML/CSS"],
-   "databases": ["Mysql", "Postgresql"],
-   "ai framework":["Tensorflow", "PyTorch", "Scikit-learn", "Keras"],
-   "other skills":["Cloud Technologies (Heroku/Docker/K8s)", "Network Protocols & Programming"]
-}
+class Siba_Prasad:
+
+    def __init__(self):
+        self.username = '@SibPrasad'
+        self.name = 'Siba Prasad'
+        self.definition = 'Self motivated learner'
+        self.background = 'Data Science Guy' 
+        self.UG = 'BTech- Computer Science'
+        self.now = 'Data Science Student'
+        self.university = 'Centurion University of Technology and Management'
+        self.linkedin = 'https://www.linkedin.com/in/siba-prasad-sahoo-41b5731a2/' #let's connect
+        self.email = 'sahoosibaprasad2221@gmail.com'
+        self.town = 'Bhubaneswar'
+        self.country = 'India'
+        self.english = 'Moderate'
+        self.hobbies = 'Cricket, Computer Programming'
+        self.job = 'Looking for an Full Time Job'
+        self.skills = {#some knowledge
+          'soft': ['Multitasking', 'Problem Solving', 'Teamwork', 'Communication', 'Research', 'Adaptability', 'Eagerness to learn'],
+          'technical':['Python', 'C++', 'HTML', 'CSS', 'JS', 'SQL/MySql', 'Pandas', 'Numpy', 'Sklearn', 'Keras', 'Tensorflow', 'Seaborn', 'Plotly', 'Jupytet notebook', 'VS code', 'Atom']
+
+        }
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Siba_Prasad()
+
+
+
 ```
 
 
