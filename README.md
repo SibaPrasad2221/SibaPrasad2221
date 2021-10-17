@@ -6,7 +6,6 @@
 - 🔑 Actively Looking for an Internship.
 - 🆓 Visit my repositories for new AI products.
 - 👯 I’m looking to collaborate with other content creators and developers
-- 💫 2021 Goals: Create ** no. of repository by Final of year my graduation.
 
 
 ### Connect with me:
