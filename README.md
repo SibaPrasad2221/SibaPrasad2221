@@ -14,7 +14,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/siba-prasad-sahoo-41b5731a2/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/__yours_siba__/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://sahoosibaprasad.medium.com/)
-![GitHub followers](https://img.shields.io/github/followers/SibPrasad?label=follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/SibaPrasad2221?label=follow&style=social)
 
 
 <br />
