@@ -1,10 +1,9 @@
 ### Hi there, This is Siba Prasad 👋
 
 ## A Full Stack Developer and Analyst
-- 🛃 Currently a college student.
-- 🌱 Learning ML,DL,CV,NLP.
-- 🔑 Actively Looking for an Internship.
-- 🆓 Visit my repositories for new AI products.
+- 🛃 Currently a Developer in Cognizant.
+- 🌱 Learning MERN, Machine Learning.
+- 🔑 Actively Looking for a Good Opportunity.
 - 👯 I’m looking to collaborate with other content creators and developers
 
 
