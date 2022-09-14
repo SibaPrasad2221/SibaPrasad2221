@@ -1,6 +1,6 @@
 ### Hi there, This is Siba Prasad 👋
 
-## 2022 passout!
+## A Full Stack Developer and Analyst
 - 🛃 Currently a college student.
 - 🌱 Learning ML,DL,CV,NLP.
 - 🔑 Actively Looking for an Internship.
