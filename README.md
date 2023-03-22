@@ -1,6 +1,6 @@
 ### Hi there, This is Siba Prasad 👋
 
-## A Full Stack Developer and Analyst
+## A Full Stack Development Enthusiast.
 - 🛃 Currently a Developer in Cognizant.
 - 🌱 Learning MERN, Machine Learning.
 - 🔑 Actively Looking for a Good Opportunity.
