@@ -18,14 +18,21 @@
 
 <br />
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SibPrasad" alt="~egoist" /> </p>
+<p align="center">
+    <img
+        height="180em"
+	 width="400em"
+        src="https://github-readme-stats.vercel.app/api?username=SibaPrasad2221&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+	width="400em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SibaPrasad2221&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+    />
+</p>
 
 
 
 
 
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SibaPrasad2221&show_icons=true&hide_border=true" />
-
-
-<https://camo.githubusercontent.com/31c6332f5efd387747d0be6d8eebf0c626b8fc2c6de59e3e39b178c1f1e7bfff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726974696b72616d756b612673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e69676874>
