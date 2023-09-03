@@ -1,10 +1,9 @@
 ### Hi there, This is Siba Prasad 👋
 
-## A Full Stack Development Enthusiast.
-- 🛃 Currently a Developer in Cognizant.
-- 🌱 Learning MERN, Machine Learning.
-- 🔑 Actively Looking for a Good Opportunity.
-- 👯 I’m looking to collaborate with other content creators and developers
+## A Engineer
+- 🛃 Currently a Developer at Cognizant.
+- 🌱 Learning DSA.
+- 👯 Looking forward to collaborating with other content creators and developers
 
 
 ### Connect with me:
