@@ -2,8 +2,8 @@
 
 ## A Engineer
 - 🛃 Currently a Developer at Cognizant.
-- 🌱 Learning DSA.
-- 👯 Looking forward to collaborating with other content creators and developers
+- 🌱 Learning Backend Development.
+- 👯 Happy to contribute for any open source project
 
 
 ### Connect with me:
